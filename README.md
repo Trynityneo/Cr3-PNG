@@ -125,7 +125,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Trynity Neo - [@Tryni18796313](https://twitter.com/Tryni18796313)
+VishnuXrobot
 
 Project Link: [https://github.com/Trynityneo/Cr3-PNG](https://github.com/Trynityneo/Cr3-PNG)
 
